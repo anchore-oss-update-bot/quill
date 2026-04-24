@@ -5,11 +5,11 @@ go 1.25.0
 require (
 	github.com/PuerkitoBio/goquery v1.12.0
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
-	github.com/anchore/bubbly v0.2.0
-	github.com/anchore/clio v0.1.0
-	github.com/anchore/fangs v0.1.0
-	github.com/anchore/go-logger v0.1.0
-	github.com/anchore/go-macholibre v0.1.0
+	github.com/anchore/bubbly v0.2.1-0.20260421185418-fee7830c481c
+	github.com/anchore/clio v0.1.1-0.20260422133353-559f2585eb64
+	github.com/anchore/fangs v0.1.1-0.20260421185343-df607d667563
+	github.com/anchore/go-logger v0.1.1-0.20260421185257-01c4e7fbebe1
+	github.com/anchore/go-macholibre v0.1.1-0.20260421185616-edb2920dc270
 	github.com/aws/aws-sdk-go-v2 v1.41.5
 	github.com/aws/aws-sdk-go-v2/config v1.32.14
 	github.com/aws/aws-sdk-go-v2/credentials v1.19.14
@@ -31,14 +31,14 @@ require (
 	github.com/stretchr/testify v1.11.1
 	github.com/wagoodman/go-partybus v0.0.0-20230516145632-8ccac152c651
 	github.com/wagoodman/go-progress v0.0.0-20230925121702-07e42b3cdba0
-	golang.org/x/term v0.41.0
+	golang.org/x/term v0.42.0
 	software.sslmate.com/src/go-pkcs12 v0.7.0
 )
 
 require (
 	dario.cat/mergo v1.0.2 // indirect
 	github.com/adrg/xdg v0.5.3 // indirect
-	github.com/anchore/go-homedir v0.0.0-20250319154043-c29668562e4d // indirect
+	github.com/anchore/go-homedir v0.1.0 // indirect
 	github.com/andybalholm/cascadia v1.3.3 // indirect
 	github.com/atotto/clipboard v0.1.4 // indirect
 	github.com/aws/aws-sdk-go-v2/aws/protocol/eventstream v1.7.8 // indirect
@@ -74,7 +74,7 @@ require (
 	github.com/fsnotify/fsnotify v1.9.0 // indirect
 	github.com/go-openapi/errors v0.22.5 // indirect
 	github.com/go-openapi/strfmt v0.25.0 // indirect
-	github.com/go-viper/mapstructure/v2 v2.4.0 // indirect
+	github.com/go-viper/mapstructure/v2 v2.5.0 // indirect
 	github.com/google/pprof v0.0.0-20251213031049-b05bdaca462f // indirect
 	github.com/google/uuid v1.6.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
@@ -111,7 +111,7 @@ require (
 	golang.org/x/crypto v0.49.0 // indirect
 	golang.org/x/exp v0.0.0-20251209150349-8475f28825e9 // indirect
 	golang.org/x/net v0.52.0 // indirect
-	golang.org/x/sys v0.42.0 // indirect
+	golang.org/x/sys v0.43.0 // indirect
 	golang.org/x/text v0.35.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
